@@ -1,6 +1,9 @@
 🎮 Hangman Game — Python
-A simple text-based Hangman game built with Python as part of my CodeAlpha Python Programming Internship.
+
+A simple text-based Hangman game built with Python.
+
 📌 About the Project
+
 In this project, the player has to guess a hidden word one letter at a time.
 The game ends when the player either guesses the word correctly or runs out of 6 chances.
 An ASCII art hangman is displayed after every wrong guess.
@@ -35,4 +38,4 @@ Strings and Lists
 
 👨‍💻 Author
 
-Made with ❤️ during CodeAlpha Python Internship
+Made with ❤️ by sachinavasthi8-crypto
