@@ -4,6 +4,7 @@ A simple text-based Hangman game built with Python as part of my CodeAlpha Pytho
 In this project, the player has to guess a hidden word one letter at a time.
 The game ends when the player either guesses the word correctly or runs out of 6 chances.
 An ASCII art hangman is displayed after every wrong guess.
+
 ✨ Features
 
 5 predefined random words
