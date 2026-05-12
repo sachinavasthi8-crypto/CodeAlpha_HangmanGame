@@ -25,6 +25,7 @@ Download or clone this repository
 Open terminal and run:
 
 python task1_hangman.py
+
 🧠 Key Concepts Used
 
 random module
@@ -33,4 +34,5 @@ if-else conditions
 Strings and Lists
 
 👨‍💻 Author
+
 Made with ❤️ during CodeAlpha Python Internship
