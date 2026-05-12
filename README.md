@@ -38,4 +38,4 @@ Strings and Lists
 
 👨‍💻 Author
 
-Made with ❤️ by sachinavasthi8-crypto
+Made with ❤️ by SACHIN AVASTHI
